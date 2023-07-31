@@ -1,0 +1,55 @@
+[
+  {
+    "ParameterKey": "VpcCidr",
+    "ParameterValue": "10.0.0.0/16"
+  }, 
+  
+  {
+    "ParameterKey": "PublicSubnet1Cidr",
+    "ParameterValue": "10.0.201.0/24"
+  },
+  {
+    "ParameterKey": "PublicSubnet1AZ",
+    "ParameterValue": "us-east-1a"
+  },
+  {
+    "ParameterKey": "PublicSubnet2Cidr",
+    "ParameterValue": "10.0.202.0/24"
+  },
+  {
+    "ParameterKey": "PublicSubnet2AZ",
+    "ParameterValue": "us-east-1b"
+  },
+  {
+    "ParameterKey": "PrivateSubnet1Cidr",
+    "ParameterValue": "10.0.4.0/22"
+  },
+  {
+    "ParameterKey": "PrivateSubnet1AZ",
+    "ParameterValue": "us-east-1a"
+  },
+  {
+    "ParameterKey": "PrivateSubnet2Cidr",
+    "ParameterValue": "10.0.8.0/22"
+  },
+  {
+    "ParameterKey": "PrivateSubnet2AZ",
+    "ParameterValue": "us-east-1b"
+  }, 
+  {
+    "ParameterKey": "DataSubnet1Cidr",
+    "ParameterValue": "10.0.101.0/24"
+  },
+  {
+    "ParameterKey": "DataSubnet1AZ",
+    "ParameterValue": "us-east-1a"
+  },
+  {
+    "ParameterKey": "DataSubnet2Cidr",
+    "ParameterValue": "10.0.102.0/24"
+  },
+  {
+    "ParameterKey": "DataSubnet2AZ",
+    "ParameterValue": "us-east-1b"
+  }
+]
